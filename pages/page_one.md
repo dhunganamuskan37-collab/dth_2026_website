@@ -11,4 +11,4 @@ Beyond saving time and reducing costs, these projects thrive on powerful communi
 
 
 
-![Team collaborating on open Source](./assets/images/collaboration.jpg)
+![OmekaPlatform](../assets/images/Omeka-Open-Source-Web-Publishing-Platform.png).
